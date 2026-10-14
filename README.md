@@ -1,39 +1,46 @@
-# Abhay Singh | Personal Portfolio
+# Abhay Singh — Personal Portfolio
 
-A personal portfolio website showcasing my introduction, technical skills, education, projects, and contact information.
+Welcome to my personal portfolio website! 👋
 
-## About the Project
+I'm **Abhay Singh**, a Computer Science student at KIET, interested in Artificial Intelligence, software development, and emerging technologies.
 
-This portfolio is part of my learning journey as a first-year Computer Science student at KIET. I built it using HTML and CSS to practise web development fundamentals and create a professional online presence.
+This portfolio showcases my background, technical skills, education, projects, and achievements.
 
-## Features
+## 🚀 Features
 
-- Personal introduction and profile photo
-- About Me section and career objective
-- Technical and soft skills
-- Education details
-- Projects showcase
-- Achievements section
-- Contact form
-- Responsive layout for different screen sizes
-- Red and black visual theme
+- **Personal Introduction** — A brief introduction about me.
+- **About Me** — My interests and learning journey.
+- **Skills** — Technologies and concepts I'm learning.
+- **Education** — My academic background.
+- **Projects** — My development projects.
+- **Achievements** — My milestones and accomplishments.
+- **Light & Dark Mode** — Switch between different website themes.
+- **Typing Animation** — Dynamically displays my interests.
+- **Back to Top** — Quickly return to the top of the page.
+- **Responsive Design** — Designed to work across different screen sizes.
 
-## Technologies Used
+## 🛠️ Technologies Used
 
-- **HTML5** — Website structure and content
-- **CSS3** — Styling, layout, and responsive design
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
+- Vercel for deployment
 
-## Project Structure
+## 📁 Project Structure
 
 ```text
 abhay-portfolio/
 ├── index.html
 ├── style.css
+├── script.js
 ├── profile.jpg
 └── README.md
 ```
 
-## Run Locally
+*Note: Make sure `profile.jpg` matches the actual filename and location of your profile image.*
+
+## 💻 Run Locally
 
 1. Clone this repository:
 
@@ -44,23 +51,23 @@ abhay-portfolio/
 2. Open the project folder.
 3. Open `index.html` in your browser.
 
-You can also use the Live Server extension in VS Code for local preview.
+No additional dependencies are required.
 
-## Future Improvements
+## 🌐 Live Website
 
-- Improve responsive design
-- Add more projects as I learn new technologies
-- Expand the portfolio with additional skills and achievements
-- Improve accessibility and user experience
+**Live Demo:** Add your deployed Vercel website URL here.
 
-## Connect With Me
+## 📬 Connect With Me
 
 - **GitHub:** [Abhay-code-CSkhud](https://github.com/Abhay-code-CSkhud)
+- **LinkedIn:** Add your LinkedIn profile URL here.
 
-## Acknowledgement
+## 🎯 Goals
 
-This project represents my first steps towards building practical skills in web development while pursuing my Computer Science degree.
+I'm continuously improving my programming skills, exploring AI and software engineering, and building projects to strengthen my technical knowledge.
+
+This portfolio is a work in progress and will evolve as I learn and build more.
 
 ---
 
-*Built with HTML and CSS by Abhay Singh.*
+Made with ❤️ by **Abhay Singh**
