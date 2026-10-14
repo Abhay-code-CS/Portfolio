@@ -449,6 +449,39 @@ footer p {
         font-size: 28px;
     }
 }
+/* Smooth theme transition */
+body {
+    transition: background-color 0.3s, color 0.3s;
+}
+
+/* Light mode */
+body.light-mode {
+    background-color: #f5f5f5;
+    color: #222;
+}
+
+/* Light mode links */
+body.light-mode a {
+    color: #333;
+}
+
+/* Buttons */
+#themeToggle,
+#backToTop {
+    padding: 10px 15px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+/* Back to top button */
+#backToTop {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 1000;
+}
 
 
 
